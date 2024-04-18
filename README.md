@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋, Meu nome é Arthur!</h1>
+<h1 align="center">Olá! 👋, sou o Arthur!</h1>
 <h3 align="center">Analista apaixonado por transformar informações em insights valiosos. Atualmente, estou cursando Ciência da Computação, buscando aprimorar minhas habilidades técnicas e teóricas para impulsionar minha carreira nessa área em constante evolução.</h3>
 
 - 🔭 Estou trabalhando como Analista de Dados JR no **Sicredi**
