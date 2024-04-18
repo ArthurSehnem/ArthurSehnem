@@ -7,9 +7,7 @@
 
 - 👨‍💻 Meus principais projetos: [https://www.linkedin.com/in/arthur-sehnem-728aa01a4/](https://www.linkedin.com/in/arthur-sehnem-728aa01a4/)
 
-- 💬 Me pergunte sobre **Power BI, DataViz e Design**
-
-- ⚡ Curiosidades **Sou completamente apaixonado por F1.**
+- ⚡ Curiosidade: **Sou completamente apaixonado por F1.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
